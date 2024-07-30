@@ -1,0 +1,17 @@
+column_attribute,description
+Patient number,Identifies patients by number
+Cholesterol,Total cholesterol
+Glucose,Fasting blood sugar
+HDL,HDL or good cholesterol
+Chol/HDL,Ratio of total cholesterol to good cholesterol. Desirable result is < 5
+Age,All adult African Americans
+Gender,"162 males, 228 females"
+Height,In inches
+Weight,In pounds (lbs)
+BMI,703 x weight (lbs)/ [height(inches]2
+Systolic BP,The upper number of blood pressure
+Diastolic BP,The lower number of blood pressure
+Waist,Measured in inches
+Hip,Measured in inches
+Waist/hip,Ratio is possibly a stronger risk factor for heart disease than BMI
+Diabetes,"Yes (60), No (330)"

@@ -1,0 +1,11 @@
+patient_number,cholesterol,glucose,hdl_chol,chol_hdl_ratio,age,gender,height,weight,bmi,systolic_bp,diastolic_bp,waist,hip,waist_hip_ratio,diabetes
+1,193,77,49,3.9,19,female,61,119,22.5,118,70,32,38,0.84,No diabetes
+2,146,79,41,3.6,19,female,60,135,26.4,108,58,33,40,0.83,No diabetes
+3,217,75,54,4,20,female,67,187,29.3,110,72,40,45,0.89,No diabetes
+4,226,97,70,3.2,20,female,64,114,19.6,122,64,31,39,0.79,No diabetes
+5,164,91,67,2.4,20,female,70,141,20.2,122,86,32,39,0.82,No diabetes
+6,170,69,64,2.7,20,female,64,161,27.6,108,70,37,40,0.93,No diabetes
+7,149,77,49,3,20,female,62,115,21,105,82,31,37,0.84,No diabetes
+8,164,71,63,2.6,20,male,72,145,19.7,108,78,29,36,0.81,No diabetes
+9,230,112,64,3.6,20,male,67,159,24.9,100,90,31,39,0.79,No diabetes
+10,179,105,60,3,20,female,58,170,35.5,140,100,34,46,0.74,No diabetes
